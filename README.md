@@ -24,4 +24,6 @@ To launch the backend, follow these steps:
 Via postman execute
 GET localhost:8080/v1/commissions/summary?customerIds=2
 
+Basic auth, user = admin, password = admin1
+
 In browser at localhost:8081 one can view the database. It will be initialized after first request
