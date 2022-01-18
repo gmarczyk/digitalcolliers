@@ -7,13 +7,13 @@ To launch the backend, follow these steps:
 
 1. Clone the project
    ```sh
-   git clone git@github.com:gmarczyk/digitalcolliers-backend.git
+   git clone git@github.com:gmarczyk/task-backend.git
    ```
-2. In project folder ./digitalcolliers-backend/digitalcoliers
+2. In project folder ./task-backend/digitalcoliers
    ```sh
    ./gradlew build
    ```
-3. In repository folder ./digitalcolliers-backend
+3. In repository folder ./task-backend
    ```sh
    docker-compose build
    docker-compose up
