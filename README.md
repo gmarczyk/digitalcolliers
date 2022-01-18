@@ -1,4 +1,4 @@
-# Digitalcolliers task - Grzegorz Marczyk
+# Backend task - Grzegorz Marczyk
 
 
 ### Launch via docker
@@ -9,7 +9,7 @@ To launch the backend, follow these steps:
    ```sh
    git clone git@github.com:gmarczyk/task-backend.git
    ```
-2. In project folder ./task-backend/digitalcoliers
+2. In project folder ./task-backend/taskbackend
    ```sh
    ./gradlew build
    ```
